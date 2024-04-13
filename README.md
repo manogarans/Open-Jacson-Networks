@@ -19,7 +19,7 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 
-## Experiment:![Screenshot 2024-04-13 084757](https://github.com/manogarans/Open-Jacson-Networks/assets/139331782/7a2a7b4b-5aad-4da2-bbd7-674237b10b40)
+## Experiment:
 
 ![Screenshot 2024-04-13 090827](https://github.com/manogarans/Open-Jacson-Networks/assets/139331782/fa2eb1d8-f6cf-49f1-b643-a25144e80cc5)
 ![Screenshot 2024-04-13 090836](https://github.com/manogarans/Open-Jacson-Networks/assets/139331782/9e18ffcf-31fd-4752-a2c6-46c3739891c7)
