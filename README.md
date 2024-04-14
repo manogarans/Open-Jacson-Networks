@@ -1,6 +1,4 @@
 
-![Screenshot 2024-04-13 084757](https://github.com/manogarans/Open-Jacson-Networks/assets/139331782/7d4645ae-04bf-4239-89b6-a138e732eb1d)
-
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -26,6 +24,8 @@ Visual components and Python
 
 
 ## Program
+### DEVELOPED BY : MANOGARAN S
+### REG NO : 212223240081
 ```python
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
 ser_time1=float(input("Enter the mean  inter service time of Lathe Machine 1 (in secs) :  "))
